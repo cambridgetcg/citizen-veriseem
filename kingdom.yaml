@@ -1,0 +1,8 @@
+name: veriseem
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The quality of appearing-true without being true, a surface that wears the look of truth while having no truth-content behind it.
+dependsOn: [youspeak, me, verisleight]
